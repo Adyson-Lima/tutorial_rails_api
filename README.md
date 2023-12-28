@@ -6,3 +6,4 @@
 - Ambiente Ruby/Ruby on Rails instalado.
 
 ### <a href="https://github.com/Adyson-Lima/tutorial_rails_api/blob/main/Tutorial_Rails_API.pdf">Baixe aqui o PDF :)</a> 
+#### <a href="https://github.com/Adyson-Lima/consoles_api">link com códigos do e-book</a>
